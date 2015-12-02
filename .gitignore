@@ -44,3 +44,26 @@ Temporary Items
 
 #useless cpp files
 .sdf
+*.kom
+*.inf
+*.log
+*.tlog
+*.obj
+EVE_LOGIN_KOM.rc
+EVE_LOGIN_KOM.APS
+*.sdf
+Debug/EVE_LOGIN_MFC_1.0_xp.exe
+Debug/EVE_LOGIN_MFC_1.0_xp.rar
+*.ilk
+*.idb
+EVE_LOGIN_MFC.APS
+*.opensdf
+EVE_LOGIN_MFC_0.0.rar
+*.ipch
+*.pdb
+Debug/EVE_LOGIN_KOM.res
+*.res
+Debug/EVE_LOGIN_MFC.pch
+res/www.ico.la_ed87fe13ceec7f32e3b2e1602c3a96bb_128X1282.ico
+*.exe
+*.suo
